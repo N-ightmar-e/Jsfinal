@@ -1,0 +1,10 @@
+/* 페이지 레이아웃 */
+.third img {
+  width: 780px;
+  height: 480px;
+  max-width: 100%;
+  display: block;
+  object-fit: cover;
+  border: 2px solid #ccc;
+  border-radius: 8px;
+}
